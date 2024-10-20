@@ -2,13 +2,13 @@
 Title: AI Sales Agent for Computer Equipment Ecommerce | Automated Customer Engagement & Sales
 Description: Enhance your computer equipment Ecommerce with an AI sales agent. Automate customer engagement, product recommendations, consultation scheduling, and Stripe payment facilitation.
 Keywords: AI Sales Agent, Ecommerce, Customer Support and assistance, Product Recommendations, Consultation Scheduling, Stripe Payments, AI Automated Sales, Python, AI Agents, AI Tools, Calendly Integration.
-Author: kaymen99
+Author: AIXerum
 -->
 
 <meta name="title" content="AI Sales Agent for Computer Equipment Ecommerce Store | AI Automated Customer Sales">
 <meta name="description" content="Enhance your Ecommerce store with an AI sales agent. Automate customer assistance and support, product recommendations, Calendly consultation scheduling, and Stripe payment facilitation.">
 <meta name="keywords" content="AI Sales Agent, Ecommerce, Customer Support and assistance, Product Recommendations, Consultation Scheduling, Stripe Payments, AI Automated Sales, Python, AI Agents, AI Tools, Calendly Integration">
-<meta name="author" content="kaymen99">
+<meta name="author" content="AIXerum">
 
 # AI Sales Agent
 
@@ -48,7 +48,7 @@ I built an AI sales agent for a computer equipement Ecommerce website, the agent
 1. **Clone the repository:**
 
    ```sh
-   git clone https://github.com/kaymen99/ai-sales-agent.git
+   git clone https://github.com/AIXerum/ai-sales-agent.git
    cd ai-sales-agent/website-sale-agent
    ```
 
@@ -93,7 +93,3 @@ I built an AI sales agent for a computer equipement Ecommerce website, the agent
 ## Contributing
 
 Contributions are welcome! Please open an issue or submit a pull request for any changes.
-
-## Contact
-
-If you have any questions or suggestions, feel free to contact me at `aymenMir10001@gmail.com`.
